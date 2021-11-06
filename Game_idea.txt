@@ -1,0 +1,16 @@
+Its a game made in matter.js 
+Should be submitted by 9th of novemer 4:00 pm
+outline of game :- 
+ i)It will be a puzzle game.
+ ii)It is inspired from The incridible machine game series ,its a game in which a simple task is done in much more complicated way.
+
+
+//wall - 1
+air mattres - 2
+ballon - 3
+pistol - 4
+punch bag - 5
+ballonhair dryer - 6
+ES&outlet - 7
+ball - 8
+
